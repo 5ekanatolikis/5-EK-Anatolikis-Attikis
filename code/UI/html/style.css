@@ -1,0 +1,43 @@
+#camerasrc{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:30px;
+  background: #73AD21;
+  padding: 5px;
+  height: auto;
+
+}
+#babyimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.alce{
+  text-align: center;
+}
+#soundbtn{
+
+  margin-left: inherit;
+  margin-right: inherit;
+  height:80px;
+
+}
+#lightbtn{
+
+  margin-left: auto;
+  margin-right: auto;
+  height:80px;
+
+}
+#fontmuso{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color:rgb(0, 255, 0);
+  font-family:Arial;
+}
+#htmltext{
+  color:rgb(0, 255, 0);
+  font-family:Arial;
+}
