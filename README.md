@@ -12,8 +12,12 @@
 
 1 αισθητήρα PIR Motion Sensor
 
-1 ηχείο 
+1 ηχείο AUX
+
+1 μετατροπέας HDMI male - VGA female
 
 1 αισθητήρα DHT11 Temperature and Humidity Sensor
 
-6 καλώδια θηλυκό - θηλυκό
+10 καλώδια θηλυκό - θηλυκό
+
+2 LED
